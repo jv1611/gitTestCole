@@ -1,7 +1,11 @@
 body {
-    background-color:red;
+    background-color:seagreen;
 }
 
 h1 {
     background-color: aquamarine;
+}
+
+h2 {
+    background-color:rgb(222, 88, 240);
 }
